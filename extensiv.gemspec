@@ -9,8 +9,9 @@ Gem::Specification.new do |spec|
   spec.email = ["nathan@nathan.la"]
   spec.summary = "Provides a Ruby wrapper for the CartRover API"
   spec.description = "A Ruby interface to the CartRover / Extensiv Integration Manager API."
-  spec.homepage = "https://github.com/narch/extensiv"
+  spec.homepage = "https://github.com/narch/extensiv_ruby"
   spec.required_ruby_version = ">= 2.6.0"
+  spec.licenses = ['MIT']
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
