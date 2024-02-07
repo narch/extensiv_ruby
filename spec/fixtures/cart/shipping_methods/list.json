@@ -1,0 +1,30 @@
+{
+  "success_code": true,
+  "response": [
+    {
+      "carrier": "USPS",
+      "code": "01",
+      "description": "USPS First Class Parcel"
+    },
+    {
+      "carrier": "USPS",
+      "code": "09",
+      "description": "USPS Priority Mail"
+    },
+    {
+      "carrier": "UPS",
+      "code": "28",
+      "description": "UPS Next Day Air"
+    },
+    {
+      "carrier": "FEDEX",
+      "code": "50",
+      "description": "FedEx Ground"
+    },
+    {
+      "carrier": "",
+      "code": "DB",
+      "description": "DHLGM Parcel Intl Standard"
+    }
+  ]
+}

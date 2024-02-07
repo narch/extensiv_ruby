@@ -1,0 +1,23 @@
+{
+  "success_code": true,
+  "response": {
+    "sku": "CIO-1001",
+    "qty_available": "15",
+    "qty_on_hand": "20",
+    "wms_datetime": "2016-08-27T02:24:58+00:00",
+    "warehouses": {
+      "2352": {
+        "warehouse": "EAST",
+        "qty_available": 10,
+        "qty_on_hand": 10,
+        "wms_datetime": "2014-01-14T01:48:07+00:00"
+      },
+      "2489": {
+        "warehouse": "WEST",
+        "qty_available": 5,
+        "qty_on_hand": 10,
+        "wms_datetime": "2014-01-14T01:48:07+00:00"
+      }
+    }
+  }
+}

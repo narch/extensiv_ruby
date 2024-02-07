@@ -1,0 +1,10 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+    - 'spec/**/*'
+StringLiterals:
+  Enabled: false
+Documentation:
+  Enabled: false
+HashSyntax:
+  Enabled: false

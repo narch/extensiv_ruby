@@ -1,0 +1,112 @@
+[
+  {
+    "cust_ref": "TEST02",
+    "ship_company": "Will Town",
+    "ship_address_1": "351 Hitchcock Way",
+    "ship_address_2": "Suite B140",
+    "ship_city": "Santa Barbara",
+    "ship_state": "CA",
+    "ship_zip": "93105",
+    "ship_country": "USA",
+    "ship_is_billing": true,
+    "sub_total": 14,
+    "order_discount": 2,
+    "tax": 1,
+    "grand_total": 15,
+    "extra_fields": {
+      "some_custom_field": "some_value",
+      "Another Field": "Another Value"
+    },
+    "items": [
+      {
+        "item": "C100",
+        "price": 4.4,
+        "quantity": 2,
+        "extended_amount": 9
+      },
+      {
+        "item": "C300",
+        "quantity": 1,
+        "price": "5.00",
+        "extended_amount": 5,
+        "extra_fields": {
+          "some_custom_field": "some_value",
+          "Another Field": "Another Value"
+        }
+      }
+    ]
+  },
+  {
+    "cust_ref": "TEST03",
+    "ship_company": "Will Town",
+    "ship_address_1": "351 Hitchcock Way",
+    "ship_address_2": "Suite B140",
+    "ship_city": "Santa Barbara",
+    "ship_state": "CA",
+    "ship_zip": "93105",
+    "ship_country": "USA",
+    "ship_is_billing": true,
+    "sub_total": 14,
+    "order_discount": 2,
+    "tax": 1,
+    "grand_total": 15,
+    "extra_fields": {
+      "some_custom_field": "some_value",
+      "Another Field": "Another Value"
+    },
+    "items": [
+      {
+        "item": "C100",
+        "price": 4.4,
+        "quantity": 2,
+        "extended_amount": 9
+      },
+      {
+        "item": "C300",
+        "quantity": 1,
+        "price": "5.00",
+        "extended_amount": 5,
+        "extra_fields": {
+          "some_custom_field": "some_value",
+          "Another Field": "Another Value"
+        }
+      }
+    ]
+  },
+  {
+    "ship_company": "Will Town",
+    "ship_address_1": "351 Hitchcock Way",
+    "ship_address_2": "Suite B140",
+    "ship_city": "Santa Barbara",
+    "ship_state": "CA",
+    "ship_zip": "93105",
+    "ship_country": "USA",
+    "ship_is_billing": true,
+    "sub_total": 14,
+    "order_discount": 2,
+    "tax": 1,
+    "grand_total": 15,
+    "extra_fields": {
+      "some_custom_field": "some_value",
+      "Another Field": "Another Value"
+    },
+    "items": [
+      {
+        "item": "C100",
+        "price": 4.4,
+        "quantity": 2,
+        "extended_amount": 9
+      },
+      {
+        "item": "C300",
+        "quantity": 1,
+        "price": "5.00",
+        "extended_amount": 5,
+        "extra_fields": {
+          "some_custom_field": "some_value",
+          "Another Field": "Another Value"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "success_code": true,
+  "response": {
+    "success": [
+      {
+        "cust_ref": "TEST02",
+        "cust_po_no": "TEST02"
+      }
+    ],
+    "failed": [
+      {
+        "cust_ref": "TEST03",
+        "cust_po_no": null,
+        "message": "OrderDuplicate"
+      },
+      {
+        "cust_ref": null,
+        "cust_po_no": null,
+        "index_pos": 2,
+        "message": "Order missing required field(s): cust_ref"
+      }
+    ]
+  }
+}

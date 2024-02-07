@@ -1,0 +1,59 @@
+{
+  "success_code": true,
+  "response": [
+    {
+      "sku": "CIO-1001",
+      "qty_available": 10,
+      "qty_on_hand": 15,
+      "wms_datetime": "2016-08-27T02:24:58+00:00",
+      "aliases": {
+        "ALT_CODE": "Some Alt Code",
+        "UPC": "SomeUPCCode"
+      },
+      "warehouses": {
+        "2352": {
+          "warehouse": "EAST",
+          "qty_available": 10,
+          "qty_on_hand": 15,
+          "wms_datetime": "2016-08-27T02:24:58+00:00"
+        }
+      }
+    },
+    {
+      "sku": "CIO-1002",
+      "qty_available": 20,
+      "qty_on_hand": 20,
+      "wms_datetime": "2016-08-27T02:24:58+00:00",
+      "aliases": [],
+      "warehouses": {
+        "2352": {
+          "warehouse": "EAST",
+          "qty_available": 20,
+          "qty_on_hand": 20,
+          "wms_datetime": "2016-08-27T02:24:58+00:00"
+        }
+      }
+    },
+    {
+      "sku": "CIO-1003",
+      "qty_available": 30,
+      "qty_on_hand": 30,
+      "wms_datetime": "2016-08-27T02:24:58+00:00",
+      "aliases": [],
+      "warehouses": {
+        "2352": {
+          "warehouse": "EAST",
+          "qty_available": 10,
+          "qty_on_hand": 10,
+          "wms_datetime": "2014-01-14T01:48:07+00:00"
+        },
+        "2489": {
+          "warehouse": "WEST",
+          "qty_available": 20,
+          "qty_on_hand": 20,
+          "wms_datetime": "2014-01-14T01:48:07+00:00"
+        }
+      }
+    }
+  ]
+}

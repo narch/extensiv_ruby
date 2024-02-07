@@ -1,0 +1,23 @@
+{
+  "success_code": true,
+  "response": {
+    "sku": "CIO-1001",
+    "name": null,
+    "description": "It's a wonderful product",
+    "retail_price": 10.12,
+    "wholesale_price": null,
+    "weight_lbs": null,
+    "wms_product_main_id": null,
+    "last_updated_datetime": "2018-01-02 16:26:25",
+    "aliases": [
+      {
+        "code_type": "merchantSKU",
+        "code": "CIO-1001-SKU"
+      },
+      {
+        "code_type": "UPC",
+        "code": "2468NotARealUPCMate"
+      }
+    ]
+  }
+}

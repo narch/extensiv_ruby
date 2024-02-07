@@ -1,0 +1,42 @@
+{
+  "success_code": true,
+  "response": {
+    "cust_ref": "349347",
+    "cust_po_no": "349347",
+    "delivered_to_wms_date": "2016-08-26T19:16:53+00:00",
+    "order_status": "shipped",
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "method": "09",
+        "tracking_no": "9405510899046006477740",
+        "tracking_no_secondary": null,
+        "sscc_barcode": null,
+        "bill_of_lading": null,
+        "total_cost": "1.50",
+        "package_weight_lbs": "0.50",
+        "dim_weight_lbs": null,
+        "zone": null,
+        "delivery_surcharge_type": null,
+        "whs_location": null,
+        "box_length_in": null,
+        "box_width_in": null,
+        "box_height_in": null,
+        "date": "2016-08-27T02:24:58+00:00",
+        "custom_1": null,
+        "items": [
+          {
+            "item": "CIOPEN",
+            "quantity": "1",
+            "carton_code": null,
+            "carton_num": "2",
+            "box_length_in": null,
+            "box_width_in": null,
+            "box_height_in": null,
+            "package_weight_lbs": null
+          }
+        ]
+      }
+    ]
+  }
+}
