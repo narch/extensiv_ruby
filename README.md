@@ -35,9 +35,9 @@ client.order.retrieve(cust_ref: "ref")
 #=> Extensiv::Order
 
 client.order.status(cust_ref: "ref")
-#=> Extensiv::Order
+#=> Extensiv::OrderStatus
 
-# Possible orders status: new, at_wms, shipped, confirmed, error, canceled, new_or_at_wms, shipped_or_confirmed, any
+# Possible order statuses: new, at_wms, shipped, confirmed, error, canceled, new_or_at_wms, shipped_or_confirmed, any
 client.order.list(status: "ref", {limit: 20})
 #=> Extensiv::Collection
 
